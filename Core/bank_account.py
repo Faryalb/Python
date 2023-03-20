@@ -28,8 +28,6 @@ class BankAccount:
         else:
             return self
 
-      
-
 faryal_acct = BankAccount("Faryal", "Bhatti", 2000, 123456,.2)
 noor_acct = BankAccount("Noor", "Ausim", 4000, 34567,.5)
 
